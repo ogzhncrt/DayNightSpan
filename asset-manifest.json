@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DayNightSpan/static/css/main.0fbb74d6.css",
-    "main.js": "/DayNightSpan/static/js/main.ffcae7ac.js",
+    "main.js": "/DayNightSpan/static/js/main.9f4b7792.js",
     "index.html": "/DayNightSpan/index.html",
     "main.0fbb74d6.css.map": "/DayNightSpan/static/css/main.0fbb74d6.css.map",
-    "main.ffcae7ac.js.map": "/DayNightSpan/static/js/main.ffcae7ac.js.map"
+    "main.9f4b7792.js.map": "/DayNightSpan/static/js/main.9f4b7792.js.map"
   },
   "entrypoints": [
     "static/css/main.0fbb74d6.css",
-    "static/js/main.ffcae7ac.js"
+    "static/js/main.9f4b7792.js"
   ]
 }
