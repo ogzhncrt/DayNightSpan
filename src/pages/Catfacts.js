@@ -22,7 +22,7 @@ export const Catfacts = (props) => {
 
     return (
         <div>
-            <h1 className="mt-4">Cat Fact Page</h1>
+            <h1 className="mt-4">Cat Fact Page1</h1>
             <h4>{data.fact}</h4>
             <button onClick={refetch}>Refetch</button>
         </div>
