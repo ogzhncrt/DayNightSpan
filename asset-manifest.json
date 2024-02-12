@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DayNightSpan/static/css/main.0fbb74d6.css",
+    "main.js": "/DayNightSpan/static/js/main.ffcae7ac.js",
+    "index.html": "/DayNightSpan/index.html",
+    "main.0fbb74d6.css.map": "/DayNightSpan/static/css/main.0fbb74d6.css.map",
+    "main.ffcae7ac.js.map": "/DayNightSpan/static/js/main.ffcae7ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fbb74d6.css",
+    "static/js/main.ffcae7ac.js"
+  ]
+}
